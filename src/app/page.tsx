@@ -192,7 +192,7 @@ const Page = () => {
                 <div>
                   <div className="acc-div-first">
                     <div className="text-center">
-                      <h5 className="acc-h5">Basic</h5>
+                      <h5 className="acc-h5 dark:text-white">Basic</h5>
                     </div>
                     <div>
                       <p className="acc-div-para">popular</p>
@@ -216,7 +216,7 @@ const Page = () => {
                 <div>
                   <div className="sub">
                     <div className="text-center">
-                      <h5 className="acc-h5">Premium</h5>
+                      <h5 className="acc-h5 dark:text-white">Premium</h5>
                     </div>
                   </div>
                   <h3 className="acc-h3 ">$5</h3>
@@ -236,8 +236,8 @@ const Page = () => {
                 </div>
                 <div>
                   <div className="gold">
-                    <div className="text-center">
-                      <h5 className="acc-h5">Gold</h5>
+                    <div className="text-center ">
+                      <h5 className="acc-h5 dark:text-white">Gold</h5>
                     </div>
                   </div>
                   <h3 className="acc-h3">$10</h3>
