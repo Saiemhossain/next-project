@@ -293,5 +293,18 @@
    @apply text-[14px] font-medium text-[#191a1e]/50 dark:text-white;
      font-family: "Inter", sans-serif;
 }
+
+.blog-h2{
+  @apply text-4xl font-medium sm:text-[40px] md:text-[96px]  text-[#1A191A] text-center mt-[60px]
+}
+.cat{
+@apply  font-medium ; 
+   font-family: "DM Sans", sans-serif;
+}
+
+.blog-heading{
+ 
+   font-family: "DM Sans", sans-serif;
+}
  
 }
