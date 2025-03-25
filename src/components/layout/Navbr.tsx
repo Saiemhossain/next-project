@@ -36,7 +36,7 @@
 //   ]
 
 //   return (
-//     <div className="sticky top-0 w-full border-b bg-background/95 backdrop:blur supports-[backdrop-filter]:bg-background/60: py-[24px]">
+//     <div className="sticky top-0 w-full border-b bg-background/95 backdrop:blur supports-[backdrop-filter]:bg-background/60: py-[24px] z-[1000]">
 //       <header className="header">
 //         <div>
 //           <Link href={'/'}>
